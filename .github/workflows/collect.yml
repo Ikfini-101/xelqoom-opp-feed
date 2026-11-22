@@ -1,0 +1,36 @@
+name: Collecteur Public OIT & UNGM
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run incremental collector
+        run: python collector.py
+
+      - name: Commit and push updated feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json feed_public.json feed_delta.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update public OIT/UNGM feed ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          else
+            echo "No changes to commit."
+          fi
