@@ -1,9 +1,9 @@
 {
-  "maj": "2026-11-26T11:46:11Z",
+  "maj": "2026-11-26T20:48:17Z",
   "sante": {
-    "oit_ungm_rss": "OK (200, 265 avis lus)"
+    "oit_ungm_rss": "OK (200, 303 avis lus)"
   },
-  "total_actifs": 235,
+  "total_actifs": 266,
   "items": [
     {
       "fp": "oit-ilo|UNGM-320130|2026-11-26",
@@ -19,7 +19,7 @@
       "flash": "0",
       "pub": "",
       "h": "714bc8f6f579",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -36,7 +36,7 @@
       "flash": "0",
       "pub": "",
       "h": "6bd63a80d6ec",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -53,7 +53,7 @@
       "flash": "0",
       "pub": "",
       "h": "04ac5203a46e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -70,7 +70,7 @@
       "flash": "0",
       "pub": "",
       "h": "1528ceb8e703",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -87,7 +87,24 @@
       "flash": "1",
       "pub": "2026-11-06",
       "h": "7af5c3991f7e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-321669|2026-11-26",
+      "src": "oit_ungm",
+      "ungm": "321669",
+      "ref": "rfx_13935_ROLAC",
+      "t": "Contratación de servicios de mensajería expresa internacional - Courier",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-26",
+      "url": "https://www.ungm.org/Public/Notice/321669",
+      "ind": "?",
+      "flash": "1",
+      "pub": "2026-11-06",
+      "h": "0256e13f5af7",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -104,7 +121,7 @@
       "flash": "0",
       "pub": "",
       "h": "5c2747786c1a",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -121,7 +138,7 @@
       "flash": "1",
       "pub": "2026-11-10",
       "h": "8d7e016e69cd",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T11:38:15Z"
     },
     {
@@ -138,7 +155,7 @@
       "flash": "1",
       "pub": "2026-11-10",
       "h": "39e3ec70ee00",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T11:38:15Z"
     },
     {
@@ -155,58 +172,7 @@
       "flash": "0",
       "pub": "",
       "h": "d0e13c606b81",
-      "last_seen": "2026-11-26T11:46:11Z",
-      "first_seen": "2026-11-22T17:53:24Z"
-    },
-    {
-      "fp": "oit-ilo|UNGM-322359|2026-11-26",
-      "src": "oit_ungm",
-      "ungm": "322359",
-      "ref": "rfx_14134_ROAF",
-      "t": "Request for Residential Conference Package- EU-Ghana Pact for Skills Project",
-      "org": "OIT / ILO",
-      "pays": "",
-      "dl": "2026-11-26",
-      "url": "https://www.ungm.org/Public/Notice/322359",
-      "ind": "?",
-      "flash": "1",
-      "pub": "2026-11-12",
-      "h": "1455795f8d76",
-      "last_seen": "2026-11-26T11:46:11Z",
-      "first_seen": "2026-11-24T19:51:07Z"
-    },
-    {
-      "fp": "oit-ilo|UNGM-322584|2026-11-26",
-      "src": "oit_ungm",
-      "ungm": "322584",
-      "ref": "UNGM-322584",
-      "t": "Procurement of Visibility Materials",
-      "org": "OIT / ILO",
-      "pays": "",
-      "dl": "2026-11-26",
-      "url": "https://www.ungm.org/Public/Notice/322584",
-      "ind": "?",
-      "flash": "0",
-      "pub": "",
-      "h": "c5ea477d2145",
-      "last_seen": "2026-11-26T11:46:11Z",
-      "first_seen": "2026-11-22T17:53:24Z"
-    },
-    {
-      "fp": "oit-ilo|UNGM-322585|2026-11-26",
-      "src": "oit_ungm",
-      "ungm": "322585",
-      "ref": "UNGM-322585",
-      "t": "Procurement of Materials for TVET centers in Somalia",
-      "org": "OIT / ILO",
-      "pays": "",
-      "dl": "2026-11-26",
-      "url": "https://www.ungm.org/Public/Notice/322585",
-      "ind": "?",
-      "flash": "0",
-      "pub": "",
-      "h": "b6f71cc4ff3f",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -223,7 +189,7 @@
       "flash": "1",
       "pub": "2026-11-16",
       "h": "e4328b9c6919",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -240,7 +206,7 @@
       "flash": "0",
       "pub": "",
       "h": "55381c467037",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -257,7 +223,7 @@
       "flash": "0",
       "pub": "",
       "h": "1e2e92fae892",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -274,7 +240,7 @@
       "flash": "0",
       "pub": "",
       "h": "9d3eefbeceb1",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -291,7 +257,7 @@
       "flash": "0",
       "pub": "",
       "h": "164434b39e3d",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -308,25 +274,8 @@
       "flash": "0",
       "pub": "",
       "h": "3c3e1da0ef46",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
-    },
-    {
-      "fp": "oit-ilo|UNGM-323018|2026-11-26",
-      "src": "oit_ungm",
-      "ungm": "323018",
-      "ref": "rfx_14646_ROLAC",
-      "t": "RFQ/456/2026/MYF/ROLAC Demande de Cotation location salle de conférence et repas",
-      "org": "OIT / ILO",
-      "pays": "",
-      "dl": "2026-11-26",
-      "url": "https://www.ungm.org/Public/Notice/323018",
-      "ind": "?",
-      "flash": "1",
-      "pub": "2026-11-18",
-      "h": "a82e06b73b77",
-      "last_seen": "2026-11-26T11:46:11Z",
-      "first_seen": "2026-11-24T07:54:28Z"
     },
     {
       "fp": "oit-ilo|UNGM-323039|2026-11-26",
@@ -342,7 +291,7 @@
       "flash": "0",
       "pub": "",
       "h": "cd573248b02b",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -359,7 +308,7 @@
       "flash": "0",
       "pub": "",
       "h": "26145d940661",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -376,7 +325,7 @@
       "flash": "0",
       "pub": "",
       "h": "f425cdc50a49",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -393,7 +342,7 @@
       "flash": "0",
       "pub": "",
       "h": "f47872474552",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -410,7 +359,7 @@
       "flash": "0",
       "pub": "",
       "h": "a75c4fc8dce1",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -427,24 +376,7 @@
       "flash": "0",
       "pub": "",
       "h": "5a9017fb4d62",
-      "last_seen": "2026-11-26T11:46:11Z",
-      "first_seen": "2026-11-22T17:53:24Z"
-    },
-    {
-      "fp": "oit-ilo|UNGM-323187|2026-11-26",
-      "src": "oit_ungm",
-      "ungm": "323187",
-      "ref": "UNGM-323187",
-      "t": "Demande de devis pour un atelier du 9 au 11 décembre 2026",
-      "org": "OIT / ILO",
-      "pays": "",
-      "dl": "2026-11-26",
-      "url": "https://www.ungm.org/Public/Notice/323187",
-      "ind": "?",
-      "flash": "0",
-      "pub": "",
-      "h": "74e2eebc6a9e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -461,7 +393,7 @@
       "flash": "0",
       "pub": "",
       "h": "b233731d90dd",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -478,24 +410,7 @@
       "flash": "0",
       "pub": "",
       "h": "353cdacac37a",
-      "last_seen": "2026-11-26T11:46:11Z",
-      "first_seen": "2026-11-22T17:53:24Z"
-    },
-    {
-      "fp": "oit-ilo|UNGM-323251|2026-11-26",
-      "src": "oit_ungm",
-      "ungm": "323251",
-      "ref": "UNGM-323251",
-      "t": "RFQ/447/2026/MUM/ROLAC Service de nettoyage pour un bureau a Caracol",
-      "org": "OIT / ILO",
-      "pays": "",
-      "dl": "2026-11-26",
-      "url": "https://www.ungm.org/Public/Notice/323251",
-      "ind": "?",
-      "flash": "0",
-      "pub": "",
-      "h": "f5259e47f8c2",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -512,7 +427,7 @@
       "flash": "0",
       "pub": "",
       "h": "5e0355c6edc7",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -529,7 +444,7 @@
       "flash": "0",
       "pub": "",
       "h": "918330576e31",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -546,7 +461,7 @@
       "flash": "1",
       "pub": "2026-11-22",
       "h": "b0f338ba2c6d",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T01:19:41Z"
     },
     {
@@ -563,7 +478,7 @@
       "flash": "1",
       "pub": "2026-11-23",
       "h": "2fe3ef0106a6",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T11:38:15Z"
     },
     {
@@ -580,7 +495,7 @@
       "flash": "0",
       "pub": "",
       "h": "427eee9f68c1",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T11:38:15Z"
     },
     {
@@ -597,7 +512,7 @@
       "flash": "0",
       "pub": "",
       "h": "0da33b0a5a19",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T11:38:15Z"
     },
     {
@@ -614,7 +529,7 @@
       "flash": "0",
       "pub": "",
       "h": "3e3900c22868",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T11:38:15Z"
     },
     {
@@ -631,7 +546,7 @@
       "flash": "0",
       "pub": "",
       "h": "416b74260897",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -648,7 +563,7 @@
       "flash": "0",
       "pub": "",
       "h": "e8929d786a7d",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -665,7 +580,7 @@
       "flash": "0",
       "pub": "",
       "h": "d0f846b59c48",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -682,7 +597,7 @@
       "flash": "0",
       "pub": "",
       "h": "1c7966091ba0",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -699,7 +614,7 @@
       "flash": "0",
       "pub": "",
       "h": "e71dee9d4b89",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T07:54:28Z"
     },
     {
@@ -716,7 +631,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "350924272b66",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -733,7 +648,7 @@
       "flash": "0",
       "pub": "",
       "h": "3024896b6004",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -750,7 +665,7 @@
       "flash": "0",
       "pub": "",
       "h": "cd18179f31a9",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -767,7 +682,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "2c986c3de541",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T03:54:36Z"
     },
     {
@@ -784,7 +699,7 @@
       "flash": "0",
       "pub": "",
       "h": "6012806d0927",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -801,7 +716,7 @@
       "flash": "0",
       "pub": "",
       "h": "3a8c3fe3b5eb",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -818,7 +733,7 @@
       "flash": "0",
       "pub": "",
       "h": "afa4813178ed",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -835,7 +750,7 @@
       "flash": "0",
       "pub": "",
       "h": "7c46578a973b",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T01:25:29Z"
     },
     {
@@ -852,7 +767,7 @@
       "flash": "0",
       "pub": "",
       "h": "c090dd269678",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
     },
     {
@@ -869,7 +784,7 @@
       "flash": "0",
       "pub": "",
       "h": "9075b7425ee0",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
     },
     {
@@ -886,7 +801,7 @@
       "flash": "0",
       "pub": "",
       "h": "40cb3ad20ae1",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -903,7 +818,7 @@
       "flash": "0",
       "pub": "",
       "h": "f7eea20ddf8f",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -920,7 +835,7 @@
       "flash": "0",
       "pub": "",
       "h": "0ebcf69decfd",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -937,7 +852,7 @@
       "flash": "0",
       "pub": "",
       "h": "58aa470ed4b4",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -954,7 +869,7 @@
       "flash": "0",
       "pub": "",
       "h": "f25b8caf8cb6",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -971,7 +886,7 @@
       "flash": "0",
       "pub": "",
       "h": "ecd200f50bfb",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -988,7 +903,7 @@
       "flash": "0",
       "pub": "",
       "h": "e6d5edd544cb",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1005,24 +920,7 @@
       "flash": "0",
       "pub": "",
       "h": "211484828800",
-      "last_seen": "2026-11-26T11:46:11Z",
-      "first_seen": "2026-11-22T17:53:24Z"
-    },
-    {
-      "fp": "oit-ilo|UNGM-321669|2026-11-27",
-      "src": "oit_ungm",
-      "ungm": "321669",
-      "ref": "rfx_13935_ROLAC",
-      "t": "Contratación de servicios de mensajería expresa internacional - Courier",
-      "org": "OIT / ILO",
-      "pays": "",
-      "dl": "2026-11-27",
-      "url": "https://www.ungm.org/Public/Notice/321669",
-      "ind": "?",
-      "flash": "1",
-      "pub": "2026-11-06",
-      "h": "e26dc664ab5c",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1039,7 +937,7 @@
       "flash": "0",
       "pub": "",
       "h": "f71faf49003d",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1056,8 +954,25 @@
       "flash": "0",
       "pub": "",
       "h": "f102b7f99934",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322359|2026-11-27",
+      "src": "oit_ungm",
+      "ungm": "322359",
+      "ref": "rfx_14134_ROAF",
+      "t": "Request for Residential Conference Package- EU-Ghana Pact for Skills Project",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-27",
+      "url": "https://www.ungm.org/Public/Notice/322359",
+      "ind": "?",
+      "flash": "1",
+      "pub": "2026-11-12",
+      "h": "d6aba664c7a9",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-24T19:51:07Z"
     },
     {
       "fp": "oit-ilo|UNGM-322526|2026-11-27",
@@ -1073,7 +988,7 @@
       "flash": "0",
       "pub": "",
       "h": "bc55f71c2825",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1090,7 +1005,7 @@
       "flash": "1",
       "pub": "2026-11-13",
       "h": "06163083e713",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1107,7 +1022,7 @@
       "flash": "0",
       "pub": "",
       "h": "e7ad961983fd",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1124,7 +1039,7 @@
       "flash": "0",
       "pub": "",
       "h": "f9b62ff587d8",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1141,7 +1056,7 @@
       "flash": "0",
       "pub": "",
       "h": "424c92f48c7f",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1158,7 +1073,7 @@
       "flash": "0",
       "pub": "",
       "h": "8ec983e80024",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1175,7 +1090,7 @@
       "flash": "0",
       "pub": "",
       "h": "27dad88d4171",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1192,7 +1107,7 @@
       "flash": "0",
       "pub": "",
       "h": "019176b2944b",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1209,7 +1124,7 @@
       "flash": "0",
       "pub": "",
       "h": "d40800eeb851",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1226,7 +1141,7 @@
       "flash": "0",
       "pub": "",
       "h": "ee5330c52d03",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1243,7 +1158,7 @@
       "flash": "0",
       "pub": "",
       "h": "39775b175526",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1260,7 +1175,7 @@
       "flash": "0",
       "pub": "",
       "h": "b3178eb94a40",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1277,7 +1192,7 @@
       "flash": "0",
       "pub": "",
       "h": "a9b7ee3cd1f1",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1294,7 +1209,7 @@
       "flash": "0",
       "pub": "",
       "h": "32dac234fbd4",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -1311,7 +1226,7 @@
       "flash": "0",
       "pub": "",
       "h": "351b10ea222e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1328,24 +1243,7 @@
       "flash": "0",
       "pub": "",
       "h": "2b5e6b72c0bd",
-      "last_seen": "2026-11-26T11:46:11Z",
-      "first_seen": "2026-11-22T17:53:24Z"
-    },
-    {
-      "fp": "oit-ilo|UNGM-323143|2026-11-27",
-      "src": "oit_ungm",
-      "ungm": "323143",
-      "ref": "UNGM-323143",
-      "t": "Sélection d’un prestataire pour les prestations de restauration des ateliers du Parcours PME de transition juste et du laboratoire d’innovation verte – OIT/CGEM – Casablanca, décembre 2026",
-      "org": "OIT / ILO",
-      "pays": "",
-      "dl": "2026-11-27",
-      "url": "https://www.ungm.org/Public/Notice/323143",
-      "ind": "?",
-      "flash": "0",
-      "pub": "",
-      "h": "929eda809c7c",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1362,7 +1260,7 @@
       "flash": "1",
       "pub": "2026-11-20",
       "h": "23954c08c55c",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1379,7 +1277,24 @@
       "flash": "0",
       "pub": "",
       "h": "1f72cebb411e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323187|2026-11-27",
+      "src": "oit_ungm",
+      "ungm": "323187",
+      "ref": "UNGM-323187",
+      "t": "Demande de devis pour un atelier du 9 au 11 décembre 2026 à Saly",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-27",
+      "url": "https://www.ungm.org/Public/Notice/323187",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "39996ccf0c4e",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1396,7 +1311,24 @@
       "flash": "0",
       "pub": "",
       "h": "a4c400275bf6",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323251|2026-11-27",
+      "src": "oit_ungm",
+      "ungm": "323251",
+      "ref": "UNGM-323251",
+      "t": "RFQ/447/2026/MUM/ROLAC Service de nettoyage pour un bureau a Caracol",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-27",
+      "url": "https://www.ungm.org/Public/Notice/323251",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "513cd4faeaae",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1413,7 +1345,7 @@
       "flash": "0",
       "pub": "",
       "h": "ed787a160726",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -1430,7 +1362,7 @@
       "flash": "1",
       "pub": "2026-11-23",
       "h": "ae936d326f2a",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -1447,7 +1379,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "2e3772930205",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T07:54:28Z"
     },
     {
@@ -1464,7 +1396,7 @@
       "flash": "0",
       "pub": "",
       "h": "257b3218c9d8",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T07:54:28Z"
     },
     {
@@ -1481,7 +1413,7 @@
       "flash": "0",
       "pub": "",
       "h": "68b0e017d308",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T07:54:28Z"
     },
     {
@@ -1498,7 +1430,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "4ce06cd9419c",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T07:54:28Z"
     },
     {
@@ -1515,7 +1447,7 @@
       "flash": "0",
       "pub": "",
       "h": "5901a55aa61d",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -1532,7 +1464,7 @@
       "flash": "0",
       "pub": "",
       "h": "81c60cd3bac0",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -1549,7 +1481,7 @@
       "flash": "0",
       "pub": "",
       "h": "42fb7afe89cb",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -1566,7 +1498,7 @@
       "flash": "0",
       "pub": "",
       "h": "9c5a3300943d",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -1583,7 +1515,7 @@
       "flash": "0",
       "pub": "",
       "h": "98d701123caf",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
     },
     {
@@ -1600,8 +1532,110 @@
       "flash": "0",
       "pub": "",
       "h": "33ed7f995354",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323833|2026-11-27",
+      "src": "oit_ungm",
+      "ungm": "323833",
+      "ref": "UNGM-323833",
+      "t": "Procurement of Fire Extinguishers for the ILO Country Office in Luanda, Angola.",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-27",
+      "url": "https://www.ungm.org/Public/Notice/323833",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "e8a4d846642d",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323837|2026-11-27",
+      "src": "oit_ungm",
+      "ungm": "323837",
+      "ref": "UNGM-323837",
+      "t": "Call for External Collaborator - Provide technical inputs to two briefs and present relevant feedback at the designated technical seminars hosted by the ILO on RBC in electronics sector, Co-Hanoi",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-27",
+      "url": "https://www.ungm.org/Public/Notice/323837",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "a7ff6c93e368",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323885|2026-11-27",
+      "src": "oit_ungm",
+      "ungm": "323885",
+      "ref": "UNGM-323885",
+      "t": "Call for External Collaborator - Provide technical inputs to promote Trade Union’s role to responsible labour practices in Viet Nam’s electronics sector, CO-Hanoi/RE Initiative",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-27",
+      "url": "https://www.ungm.org/Public/Notice/323885",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "77ad93e9a08f",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323893|2026-11-27",
+      "src": "oit_ungm",
+      "ungm": "323893",
+      "ref": "UNGM-323893",
+      "t": "WAV/353/2026/ANG/HQ - FACILITIES - CGC Energie SA prolongation LTA",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-27",
+      "url": "https://www.ungm.org/Public/Notice/323893",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "f7abf878623e",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323916|2026-11-27",
+      "src": "oit_ungm",
+      "ungm": "323916",
+      "ref": "UNGM-323916",
+      "t": "WAV/361/2026/ALG/HQ - Request for Waiver Creation for the institutional subscription to BrowZine (Third Iron)",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-27",
+      "url": "https://www.ungm.org/Public/Notice/323916",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "ea3df28e7e58",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323919|2026-11-27",
+      "src": "oit_ungm",
+      "ungm": "323919",
+      "ref": "UNGM-323919",
+      "t": "WAV/294/2026/AJZ/HQ - purchase of AI license and maintenance for SPM",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-27",
+      "url": "https://www.ungm.org/Public/Notice/323919",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "51a092d348b3",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
     },
     {
       "fp": "oit-ilo|UNGM-322179|2026-11-28",
@@ -1617,7 +1651,7 @@
       "flash": "0",
       "pub": "",
       "h": "43941b42bf7a",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1634,42 +1668,25 @@
       "flash": "0",
       "pub": "",
       "h": "8f506a8b7a51",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
-      "fp": "oit-ilo|UNGM-322661|2026-11-28",
+      "fp": "oit-ilo|UNGM-323018|2026-11-28",
       "src": "oit_ungm",
-      "ungm": "322661",
-      "ref": "UNGM-322661",
-      "t": "RFQ/445/2026/GEM/ROAP Organization and Delivery of Vocational and Technical Education and Training (TVET)",
+      "ungm": "323018",
+      "ref": "rfx_14646_ROLAC",
+      "t": "RFQ/456/2026/MYF/ROLAC Demande de Cotation location salle de conférence et repas",
       "org": "OIT / ILO",
       "pays": "",
       "dl": "2026-11-28",
-      "url": "https://www.ungm.org/Public/Notice/322661",
+      "url": "https://www.ungm.org/Public/Notice/323018",
       "ind": "?",
-      "flash": "0",
-      "pub": "",
-      "h": "11449c683c53",
-      "last_seen": "2026-11-26T11:46:11Z",
-      "first_seen": "2026-11-22T17:53:24Z"
-    },
-    {
-      "fp": "oit-ilo|UNGM-322886|2026-11-28",
-      "src": "oit_ungm",
-      "ungm": "322886",
-      "ref": "UNGM-322886",
-      "t": "RFQ/403/2026/MIP/ROLAC - Servicio de movilidad corporativa, taxi y mensajería institucional",
-      "org": "OIT / ILO",
-      "pays": "",
-      "dl": "2026-11-28",
-      "url": "https://www.ungm.org/Public/Notice/322886",
-      "ind": "?",
-      "flash": "0",
-      "pub": "",
-      "h": "f6e45843ffe6",
-      "last_seen": "2026-11-26T11:46:11Z",
-      "first_seen": "2026-11-22T17:53:24Z"
+      "flash": "1",
+      "pub": "2026-11-18",
+      "h": "9bf7d07d214c",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-24T07:54:28Z"
     },
     {
       "fp": "oit-ilo|UNGM-323125|2026-11-28",
@@ -1685,7 +1702,7 @@
       "flash": "0",
       "pub": "",
       "h": "e4a96968eb92",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1702,7 +1719,7 @@
       "flash": "0",
       "pub": "",
       "h": "dc365284d96a",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1719,7 +1736,7 @@
       "flash": "0",
       "pub": "",
       "h": "2724e0e853a0",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
     },
     {
@@ -1736,8 +1753,42 @@
       "flash": "0",
       "pub": "",
       "h": "770eecbd17ff",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323865|2026-11-28",
+      "src": "oit_ungm",
+      "ungm": "323865",
+      "ref": "UNGM-323865",
+      "t": "Call for External Collaborator – Graphic Design, Print Layout and Digital Publication Preparation for BEIT 16 Days Campaign 2026, ILO Iraq",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-28",
+      "url": "https://www.ungm.org/Public/Notice/323865",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "ed8606cb61db",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323889|2026-11-28",
+      "src": "oit_ungm",
+      "ungm": "323889",
+      "ref": "UNGM-323889",
+      "t": "WAV/376/2026/MIP/ROLAC - Servicio de telefonía móvil corporativa para la Oficina de la OIT en Lima, Perú",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-28",
+      "url": "https://www.ungm.org/Public/Notice/323889",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "6847b4904557",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
     },
     {
       "fp": "oit-ilo|UNGM-321968|2026-11-29",
@@ -1753,7 +1804,7 @@
       "flash": "1",
       "pub": "2026-11-10",
       "h": "7dc7146a7e34",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1770,7 +1821,7 @@
       "flash": "0",
       "pub": "",
       "h": "6ae824100b2a",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1787,7 +1838,7 @@
       "flash": "0",
       "pub": "",
       "h": "c119e1bdcc0c",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1804,7 +1855,7 @@
       "flash": "1",
       "pub": "2026-11-14",
       "h": "d0b738a03ea4",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1821,7 +1872,7 @@
       "flash": "0",
       "pub": "",
       "h": "4c2752358669",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1838,7 +1889,7 @@
       "flash": "1",
       "pub": "2026-11-18",
       "h": "618d7d934e9e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1855,7 +1906,7 @@
       "flash": "1",
       "pub": "2026-11-19",
       "h": "673a66449250",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1872,7 +1923,7 @@
       "flash": "0",
       "pub": "",
       "h": "0ab2131875cd",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1889,7 +1940,7 @@
       "flash": "0",
       "pub": "",
       "h": "fe1635327594",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -1906,7 +1957,7 @@
       "flash": "0",
       "pub": "",
       "h": "b496a58605eb",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T11:38:15Z"
     },
     {
@@ -1923,7 +1974,7 @@
       "flash": "0",
       "pub": "",
       "h": "5c01119eee0b",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -1940,7 +1991,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "0dc806eae149",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T07:54:28Z"
     },
     {
@@ -1957,7 +2008,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "195628ecaad8",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -1974,7 +2025,7 @@
       "flash": "0",
       "pub": "",
       "h": "60b3eac9d85f",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -1991,7 +2042,7 @@
       "flash": "1",
       "pub": "2026-11-25",
       "h": "132d7768da68",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -2008,7 +2059,7 @@
       "flash": "0",
       "pub": "",
       "h": "8ad3db6b4f9e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -2025,7 +2076,7 @@
       "flash": "0",
       "pub": "",
       "h": "bc18eb04153a",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -2042,7 +2093,7 @@
       "flash": "1",
       "pub": "2026-11-25",
       "h": "c908d73a21a4",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T01:25:29Z"
     },
     {
@@ -2059,8 +2110,25 @@
       "flash": "0",
       "pub": "",
       "h": "8f7c4744631c",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323825|2026-11-29",
+      "src": "oit_ungm",
+      "ungm": "323825",
+      "ref": "UNGM-323825",
+      "t": "Achat billet aller-retour Casablanca-Le Caire - Casablanca, arrivée le 7/12/2026 et retour le 9/12 en fin de journée ou le 10/12/2026 en matinée",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-29",
+      "url": "https://www.ungm.org/Public/Notice/323825",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "ff95657da619",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
     },
     {
       "fp": "oit-ilo|UNGM-319708|2026-11-30",
@@ -2076,7 +2144,7 @@
       "flash": "0",
       "pub": "",
       "h": "17b6798064c1",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2093,7 +2161,7 @@
       "flash": "0",
       "pub": "",
       "h": "bf64c0db45ce",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2110,7 +2178,7 @@
       "flash": "0",
       "pub": "",
       "h": "9fb33ed54ecb",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2127,8 +2195,25 @@
       "flash": "0",
       "pub": "",
       "h": "c647d21b63c6",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322358|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322358",
+      "ref": "UNGM-322358",
+      "t": "Exécution des travaux de construction d’une longrine intermédiaire, de peinture, d’un préau, d’une aire de séchage et d’aménagements extérieurs du magasin de stockage situé à Anjozorobe, Commune rurale d’Anjozorobe, Région Analamanga",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322358",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "6a4f844f523c",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-23T23:12:29Z"
     },
     {
       "fp": "oit-ilo|UNGM-322435|2026-11-30",
@@ -2144,7 +2229,177 @@
       "flash": "0",
       "pub": "",
       "h": "e0c711f7218b",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322464|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322464",
+      "ref": "UNGM-322464",
+      "t": "Exécution des travaux supplémentaires dans le cadre de construction d’une unité de production atisanale sà Sihanamaro, Commune Rurale Sihanamaro, Région Ambovombe Androy",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322464",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "360c7cf579cd",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-23T23:12:29Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322540|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322540",
+      "ref": "UNGM-322540",
+      "t": "Demand de cotation - Organisation Evénement tripartite national, Dakar le 03 décembre 2026",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322540",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "314090c6072f",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322563|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322563",
+      "ref": "UNGM-322563",
+      "t": "Exécution des travaux de construction de longrine intermédiaire -MEM -peinture, d’un préau, d’une aire de séchage et des aménagement extérieurs du magasin de stockage à Tsaravary, Commune rurale Tsaravary, Région Vatovavy",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322563",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "d9b9061672e9",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-23T23:12:29Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322572|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322572",
+      "ref": "UNGM-322572",
+      "t": "Exécution des travaux supplémentaires dans le cadre de construction d’une clôture et d’une adduction d’eau à Ianabinda, Commune Rurale Ianabinda, Région Anôsy.",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322572",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "18ac37a430ff",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-23T23:12:29Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322573|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322573",
+      "ref": "UNGM-322573",
+      "t": "Exécution des travaux supplémentaires dans le cadre de construction d’une clôture et d’une adduction d’eau à Sihanamaro, Commune Rurale Sihanamaro, Région Androy.",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322573",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "b06d5d16d958",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-23T23:12:29Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322574|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322574",
+      "ref": "UNGM-322574",
+      "t": "Exécution des travaux de construction de longrine intermédiaire -MEM -peinture, d’un préau, d’une aire de séchage et d’une stèle du magasin de stockage à Tsiatosika, Commune rurale Tsiatosika, Région Vatovavy",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322574",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "0bbc34703414",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-23T23:12:29Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322575|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322575",
+      "ref": "UNGM-322575",
+      "t": "Exécution des travaux de construction de longrine intermédiaire -MEM -peinture, d’un préau, d’une aire de séchage et d’une stèle du magasin de stockage à Anteza, Commune rurale Anteza, Région Fitovinany",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322575",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "b665bf25ef7b",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-23T23:12:29Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322576|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322576",
+      "ref": "UNGM-322576",
+      "t": "Exécution des travaux supplémentaires dans le cadre de construction d’une unité de production semi-industrielle à Ianabinda, Commune Rurale Ianabinda, Région Anôsy",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322576",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "927a9a49d673",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-23T23:12:29Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322584|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322584",
+      "ref": "UNGM-322584",
+      "t": "Procurement of Visibility Materials.",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322584",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "2241e2eaff3d",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322585|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322585",
+      "ref": "UNGM-322585",
+      "t": "Procurement of Materials for TVET centers in Somalia,",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322585",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "ae8b89e7fb3e",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2161,7 +2416,7 @@
       "flash": "0",
       "pub": "",
       "h": "10046d922e0d",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2178,7 +2433,7 @@
       "flash": "0",
       "pub": "",
       "h": "c2704e544e8f",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2195,7 +2450,7 @@
       "flash": "0",
       "pub": "",
       "h": "a54fb486e56f",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2212,8 +2467,42 @@
       "flash": "0",
       "pub": "",
       "h": "fce03f50509b",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322823|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322823",
+      "ref": "UNGM-322823",
+      "t": "Exécution des travaux de construction de longrine intermédiaire -MEM -peinture, d’un préau, d’une aire de séchage , des aménagements extérieurs et d’une stèle du magasin de stockage à Ifotaka, Commune rurale Ifotaka, Région Anôsy",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322823",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "e5a167f633b9",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-23T23:12:29Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322824|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322824",
+      "ref": "UNGM-322824",
+      "t": "Exécution des travaux de construction de longrine intermédiaire -MEM -peinture, d’un préau, d’une aire de séchage, des aménagements extérieurs et d’une stèle du magasin de stockage à Fotadrevo, Commune rurale Fotadrevo, Région Atsimo Andrefana",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322824",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "1ad5133270ca",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-23T23:12:29Z"
     },
     {
       "fp": "oit-ilo|UNGM-322828|2026-11-30",
@@ -2229,8 +2518,25 @@
       "flash": "0",
       "pub": "",
       "h": "d87e6d812b90",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322845|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "322845",
+      "ref": "UNGM-322845",
+      "t": "Exécution des travaux supplémentaires dans le cadre de construction d’une unité de production atisanale à Mahatsara Sud, Commune Rurale Mahatsara Sud, Région Vatovavy",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/322845",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "541f1bee7c58",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-23T23:12:29Z"
     },
     {
       "fp": "oit-ilo|UNGM-322849|2026-11-30",
@@ -2246,7 +2552,7 @@
       "flash": "0",
       "pub": "",
       "h": "16709ad19f2e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2263,7 +2569,7 @@
       "flash": "0",
       "pub": "",
       "h": "11b502ff43bc",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2280,7 +2586,7 @@
       "flash": "0",
       "pub": "",
       "h": "86fd1d4ed559",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2297,7 +2603,7 @@
       "flash": "0",
       "pub": "",
       "h": "f11da4d7c56a",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2314,7 +2620,7 @@
       "flash": "0",
       "pub": "",
       "h": "e2d8eb229a73",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2331,7 +2637,7 @@
       "flash": "0",
       "pub": "",
       "h": "81ac50dafbcb",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2348,7 +2654,7 @@
       "flash": "0",
       "pub": "",
       "h": "bc7a49b7be98",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2365,7 +2671,7 @@
       "flash": "0",
       "pub": "",
       "h": "46301f40d814",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2382,7 +2688,7 @@
       "flash": "0",
       "pub": "",
       "h": "807be045165d",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2399,7 +2705,7 @@
       "flash": "0",
       "pub": "",
       "h": "bab05941eb4d",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2416,7 +2722,7 @@
       "flash": "0",
       "pub": "",
       "h": "dbe669cb9e7b",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2433,7 +2739,7 @@
       "flash": "0",
       "pub": "",
       "h": "9de699fa18a4",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2450,7 +2756,7 @@
       "flash": "0",
       "pub": "",
       "h": "29461bb58052",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2467,7 +2773,24 @@
       "flash": "1",
       "pub": "2026-11-20",
       "h": "648c999201d5",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323244|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "323244",
+      "ref": "UNGM-323244",
+      "t": "Exécution des travaux supplémentaires dans le cadre de construction d’une unité de production artisanale et d’une clôture à Anosibe Ifanja, Commune Rurale Anosibe Ifanja, Région Itasy",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/323244",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "24d6caea189d",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2484,7 +2807,7 @@
       "flash": "0",
       "pub": "",
       "h": "0dd79de82c59",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2501,7 +2824,7 @@
       "flash": "1",
       "pub": "2026-11-21",
       "h": "e7e0d3b8b231",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2518,7 +2841,7 @@
       "flash": "1",
       "pub": "2026-11-23",
       "h": "94e43cb6c03a",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T11:38:15Z"
     },
     {
@@ -2535,7 +2858,7 @@
       "flash": "0",
       "pub": "",
       "h": "9633909f83a6",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -2552,7 +2875,7 @@
       "flash": "0",
       "pub": "",
       "h": "5dec3d084f63",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -2569,7 +2892,7 @@
       "flash": "0",
       "pub": "",
       "h": "88ae60bd0d77",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -2586,7 +2909,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "d23da42bab26",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T07:54:28Z"
     },
     {
@@ -2603,7 +2926,7 @@
       "flash": "0",
       "pub": "",
       "h": "c7b95a8800ec",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -2620,7 +2943,7 @@
       "flash": "0",
       "pub": "",
       "h": "0306df1193e0",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -2637,7 +2960,7 @@
       "flash": "0",
       "pub": "",
       "h": "94553fbf0615",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -2654,7 +2977,7 @@
       "flash": "0",
       "pub": "",
       "h": "8c0ade9fcb68",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -2671,7 +2994,7 @@
       "flash": "0",
       "pub": "",
       "h": "1a121563c539",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -2688,7 +3011,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "08746bdc3a70",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T03:54:36Z"
     },
     {
@@ -2705,7 +3028,7 @@
       "flash": "1",
       "pub": "2026-11-25",
       "h": "b9ea61b95917",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T03:54:36Z"
     },
     {
@@ -2722,7 +3045,7 @@
       "flash": "0",
       "pub": "",
       "h": "725550e8e976",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -2739,7 +3062,7 @@
       "flash": "0",
       "pub": "",
       "h": "449e71f1f2c5",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -2756,7 +3079,7 @@
       "flash": "0",
       "pub": "",
       "h": "eeca7651a348",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -2773,7 +3096,7 @@
       "flash": "0",
       "pub": "",
       "h": "95e0aa32cdee",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -2790,7 +3113,7 @@
       "flash": "1",
       "pub": "2026-11-25",
       "h": "f24bcf10ffe0",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -2807,7 +3130,7 @@
       "flash": "0",
       "pub": "",
       "h": "61c2e4d3e85d",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -2824,7 +3147,7 @@
       "flash": "0",
       "pub": "",
       "h": "58a010eb16cd",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
     },
     {
@@ -2841,7 +3164,7 @@
       "flash": "0",
       "pub": "",
       "h": "b0bab261930a",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
     },
     {
@@ -2858,8 +3181,42 @@
       "flash": "0",
       "pub": "",
       "h": "47871162ce35",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323880|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "323880",
+      "ref": "UNGM-323880",
+      "t": "WAV/335/2026/ILI/EUROPE - ILO-ANKARA - Provision of Tax-Free Fuel Delivery and Data Services through Integration with Automatic Fleet Fuel Recognition and Management System",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/323880",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "327eae64f30d",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323918|2026-11-30",
+      "src": "oit_ungm",
+      "ungm": "323918",
+      "ref": "UNGM-323918",
+      "t": "Waiver Extension for Elsevier Subscription - WAV/348/2026/ALG/HQ",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-11-30",
+      "url": "https://www.ungm.org/Public/Notice/323918",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "d1201e805b32",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
     },
     {
       "fp": "oit-ilo|UNGM-322556|2026-12-01",
@@ -2875,7 +3232,7 @@
       "flash": "0",
       "pub": "",
       "h": "415db7cf7e73",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2892,7 +3249,24 @@
       "flash": "1",
       "pub": "2026-11-16",
       "h": "077a14134f38",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322661|2026-12-01",
+      "src": "oit_ungm",
+      "ungm": "322661",
+      "ref": "rfx_14333_Europe",
+      "t": "RFQ/445/2026/GEM/ROAP Organization and Delivery of Vocational and Technical Education and Training (TVET)",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-12-01",
+      "url": "https://www.ungm.org/Public/Notice/322661",
+      "ind": "?",
+      "flash": "1",
+      "pub": "2026-11-16",
+      "h": "310f35a4dbbd",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2909,7 +3283,7 @@
       "flash": "1",
       "pub": "2026-11-17",
       "h": "218dadce5d4f",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2926,7 +3300,7 @@
       "flash": "1",
       "pub": "2026-11-18",
       "h": "9b8987e3dc7d",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2943,7 +3317,7 @@
       "flash": "1",
       "pub": "2026-11-18",
       "h": "7ea86437b74b",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2960,7 +3334,7 @@
       "flash": "0",
       "pub": "",
       "h": "8474ff60e364",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2977,7 +3351,7 @@
       "flash": "1",
       "pub": "2026-11-18",
       "h": "5ca867f8fc95",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -2994,7 +3368,7 @@
       "flash": "1",
       "pub": "2026-11-19",
       "h": "c6d85fe9e81f",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3011,7 +3385,7 @@
       "flash": "1",
       "pub": "2026-11-23",
       "h": "fc47ffaf49c6",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T11:38:15Z"
     },
     {
@@ -3028,7 +3402,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "99876e6be949",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T07:54:28Z"
     },
     {
@@ -3045,7 +3419,7 @@
       "flash": "0",
       "pub": "",
       "h": "d417762c664c",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -3062,7 +3436,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "7ba2124c4b6f",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -3079,7 +3453,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "9a44bfde655a",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -3096,7 +3470,7 @@
       "flash": "1",
       "pub": "2026-11-25",
       "h": "54c2b22db52a",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T03:54:36Z"
     },
     {
@@ -3113,7 +3487,7 @@
       "flash": "1",
       "pub": "2026-11-25",
       "h": "0c95f664909e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -3130,8 +3504,25 @@
       "flash": "1",
       "pub": "2026-11-26",
       "h": "4a8cd14d40da",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323883|2026-12-01",
+      "src": "oit_ungm",
+      "ungm": "323883",
+      "ref": "UNGM-323883",
+      "t": "Call for External Collaborator – Provide a presentation and technical inputs to the technical meeting on Advancing Gender Equality in Manufacturing Supply Chains in Viet Nam, CO-Hanoi/TfDW Project",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-12-01",
+      "url": "https://www.ungm.org/Public/Notice/323883",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "b092cf90ad4f",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
     },
     {
       "fp": "oit-ilo|UNGM-321345|2026-12-02",
@@ -3147,7 +3538,7 @@
       "flash": "0",
       "pub": "",
       "h": "ad7de0310d71",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3164,7 +3555,7 @@
       "flash": "0",
       "pub": "",
       "h": "a9dc2a711459",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3181,7 +3572,7 @@
       "flash": "0",
       "pub": "",
       "h": "fadc7e8518ac",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -3198,7 +3589,7 @@
       "flash": "0",
       "pub": "",
       "h": "09693b54fdb6",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3215,7 +3606,7 @@
       "flash": "0",
       "pub": "",
       "h": "7dbe3a0f8283",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3232,7 +3623,24 @@
       "flash": "1",
       "pub": "2026-11-19",
       "h": "c1d737451568",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323143|2026-12-02",
+      "src": "oit_ungm",
+      "ungm": "323143",
+      "ref": "UNGM-323143",
+      "t": "Sélection d’un prestataire pour les prestations de restauration des ateliers du Parcours PME de transition juste et du laboratoire d’innovation verte – OIT/CGEM – Casablanca, décembre 2026",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-12-02",
+      "url": "https://www.ungm.org/Public/Notice/323143",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "6a1c251e6cb9",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3249,7 +3657,7 @@
       "flash": "1",
       "pub": "2026-11-23",
       "h": "b6175141df38",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T11:38:15Z"
     },
     {
@@ -3266,7 +3674,7 @@
       "flash": "0",
       "pub": "",
       "h": "48bbf4b8f706",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T03:54:36Z"
     },
     {
@@ -3283,7 +3691,7 @@
       "flash": "0",
       "pub": "",
       "h": "55dbede4da87",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -3300,7 +3708,7 @@
       "flash": "1",
       "pub": "2026-11-25",
       "h": "0ce382272020",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -3317,7 +3725,7 @@
       "flash": "1",
       "pub": "2026-11-25",
       "h": "455c9aac39f5",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -3334,8 +3742,59 @@
       "flash": "1",
       "pub": "2026-11-26",
       "h": "8da45796bd0e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323834|2026-12-02",
+      "src": "oit_ungm",
+      "ungm": "323834",
+      "ref": "UNGM-323834",
+      "t": "RFQ/468/2026/GAH/ROAS Event management service for OSH Workshop in Erbil _ 8-10 December 2026",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-12-02",
+      "url": "https://www.ungm.org/Public/Notice/323834",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "98f963c4b722",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323848|2026-12-02",
+      "src": "oit_ungm",
+      "ungm": "323848",
+      "ref": "UNGM-323848",
+      "t": "Location de douze (12) places de parking au profit du personnel lac 2 pour 6 mois",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-12-02",
+      "url": "https://www.ungm.org/Public/Notice/323848",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "dc0c0839d3d1",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323876|2026-12-02",
+      "src": "oit_ungm",
+      "ungm": "323876",
+      "ref": "UNGM-323876",
+      "t": "Request for quotation: Interpretation services to support the workshop Sensitization session with MAPTSS on the rationale, implementation and impact of 19th, 20th and 21st ICLS",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-12-02",
+      "url": "https://www.ungm.org/Public/Notice/323876",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "3f9df9251c85",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
     },
     {
       "fp": "oit-ilo|UNGM-319815|2026-12-03",
@@ -3351,7 +3810,7 @@
       "flash": "1",
       "pub": "2026-10-27",
       "h": "55580a62c462",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3368,7 +3827,7 @@
       "flash": "1",
       "pub": "2026-11-12",
       "h": "5f741bcfa5fd",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3385,7 +3844,7 @@
       "flash": "1",
       "pub": "2026-11-18",
       "h": "0ab998624be7",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3402,7 +3861,7 @@
       "flash": "0",
       "pub": "",
       "h": "46072f046b52",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3419,7 +3878,7 @@
       "flash": "1",
       "pub": "2026-11-20",
       "h": "4d1000ec560e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3436,7 +3895,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "597bec983939",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T07:54:28Z"
     },
     {
@@ -3453,7 +3912,7 @@
       "flash": "1",
       "pub": "2026-11-13",
       "h": "a8ff43bd6a78",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3470,7 +3929,7 @@
       "flash": "1",
       "pub": "2026-11-13",
       "h": "e5b1d2c90ea4",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3487,7 +3946,7 @@
       "flash": "0",
       "pub": "",
       "h": "09f82508520d",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3504,7 +3963,7 @@
       "flash": "1",
       "pub": "2026-11-19",
       "h": "dd49552c73c1",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3521,7 +3980,7 @@
       "flash": "0",
       "pub": "",
       "h": "59ba948ffb4e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3538,7 +3997,7 @@
       "flash": "0",
       "pub": "",
       "h": "2d8ae6ea4fb6",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -3555,7 +4014,7 @@
       "flash": "0",
       "pub": "",
       "h": "80d1543081be",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
     },
     {
@@ -3572,8 +4031,25 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "06a1f57e79b0",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323835|2026-12-04",
+      "src": "oit_ungm",
+      "ungm": "323835",
+      "ref": "UNGM-323835",
+      "t": "Supply and Maintenance of fire alarm system - ILO Country Office in Luanda, Angola.",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-12-04",
+      "url": "https://www.ungm.org/Public/Notice/323835",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "6e772d62d334",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
     },
     {
       "fp": "oit-ilo|UNGM-323015|2026-12-05",
@@ -3589,7 +4065,24 @@
       "flash": "0",
       "pub": "",
       "h": "749328eb6f48",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-22T17:53:24Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-322886|2026-12-06",
+      "src": "oit_ungm",
+      "ungm": "322886",
+      "ref": "UNGM-322886",
+      "t": "RFQ/403/2026/MIP/ROLAC - Servicio de movilidad corporativa, taxi y mensajería institucional",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-12-06",
+      "url": "https://www.ungm.org/Public/Notice/322886",
+      "ind": "?",
+      "flash": "0",
+      "pub": "",
+      "h": "270ab69f00e0",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3606,7 +4099,7 @@
       "flash": "0",
       "pub": "",
       "h": "bdf462c13bb7",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -3623,7 +4116,7 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "0a6a291c5e73",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T07:54:28Z"
     },
     {
@@ -3640,7 +4133,7 @@
       "flash": "1",
       "pub": "2026-11-26",
       "h": "12b522bd6247",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
     },
     {
@@ -3657,7 +4150,7 @@
       "flash": "0",
       "pub": "",
       "h": "b8683e7a9b9f",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -3674,7 +4167,7 @@
       "flash": "1",
       "pub": "2026-11-25",
       "h": "5e89553cba93",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -3691,7 +4184,7 @@
       "flash": "1",
       "pub": "2026-11-21",
       "h": "1b59c760e481",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3708,7 +4201,7 @@
       "flash": "0",
       "pub": "",
       "h": "63ef156bb708",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T11:38:15Z"
     },
     {
@@ -3725,8 +4218,42 @@
       "flash": "1",
       "pub": "2026-11-24",
       "h": "422faa274d76",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-24T19:51:07Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323836|2026-12-08",
+      "src": "oit_ungm",
+      "ungm": "323836",
+      "ref": "rfx_15020_ROAF",
+      "t": "Call for External Collaborator: Affordable and Green Housing Consultant, Mozambique (Sofala and Manica),",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-12-08",
+      "url": "https://www.ungm.org/Public/Notice/323836",
+      "ind": "1",
+      "flash": "1",
+      "pub": "2026-11-26",
+      "h": "0852ed69ca60",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
+    },
+    {
+      "fp": "oit-ilo|UNGM-323892|2026-12-08",
+      "src": "oit_ungm",
+      "ungm": "323892",
+      "ref": "rfx_15030_ROAS",
+      "t": "RFQ/472/2026/ASN/ROAS - Promoting Social Dialogue and Consultation on Social Protection in Jordan",
+      "org": "OIT / ILO",
+      "pays": "",
+      "dl": "2026-12-08",
+      "url": "https://www.ungm.org/Public/Notice/323892",
+      "ind": "?",
+      "flash": "1",
+      "pub": "2026-11-26",
+      "h": "68811d376b12",
+      "last_seen": "2026-11-26T20:48:17Z",
+      "first_seen": "2026-11-26T20:48:17Z"
     },
     {
       "fp": "oit-ilo|UNGM-321777|2026-12-09",
@@ -3742,7 +4269,7 @@
       "flash": "0",
       "pub": "",
       "h": "48dd68715b08",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3759,7 +4286,7 @@
       "flash": "1",
       "pub": "2026-11-17",
       "h": "d205556223d8",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3776,7 +4303,7 @@
       "flash": "1",
       "pub": "2026-11-22",
       "h": "01f451b11fc6",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3793,7 +4320,7 @@
       "flash": "1",
       "pub": "2026-11-26",
       "h": "7cc21dfe05d5",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
     },
     {
@@ -3810,7 +4337,7 @@
       "flash": "1",
       "pub": "2026-11-26",
       "h": "9b74a6985b41",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
     },
     {
@@ -3827,7 +4354,7 @@
       "flash": "0",
       "pub": "",
       "h": "3bc73ef7b267",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3844,7 +4371,7 @@
       "flash": "1",
       "pub": "2026-11-26",
       "h": "b6c370389fcb",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
     },
     {
@@ -3861,7 +4388,7 @@
       "flash": "1",
       "pub": "2026-11-26",
       "h": "060269191286",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-26T11:46:11Z"
     },
     {
@@ -3878,7 +4405,7 @@
       "flash": "1",
       "pub": "2026-11-25",
       "h": "8fe188eb1918",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-25T16:37:29Z"
     },
     {
@@ -3895,7 +4422,7 @@
       "flash": "0",
       "pub": "",
       "h": "a15ac128d708",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3912,7 +4439,7 @@
       "flash": "1",
       "pub": "2026-11-23",
       "h": "cbbff31d3dec",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-23T23:12:29Z"
     },
     {
@@ -3929,7 +4456,7 @@
       "flash": "1",
       "pub": "2026-10-30",
       "h": "000a9c1e2937",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3946,7 +4473,7 @@
       "flash": "1",
       "pub": "2026-11-18",
       "h": "a777ba660a7e",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3963,7 +4490,7 @@
       "flash": "1",
       "pub": "2026-11-16",
       "h": "7db47820e8f9",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3980,7 +4507,7 @@
       "flash": "0",
       "pub": "",
       "h": "4b986e55e252",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     },
     {
@@ -3997,7 +4524,7 @@
       "flash": "0",
       "pub": "",
       "h": "4b1fac6a427a",
-      "last_seen": "2026-11-26T11:46:11Z",
+      "last_seen": "2026-11-26T20:48:17Z",
       "first_seen": "2026-11-22T17:53:24Z"
     }
   ]
